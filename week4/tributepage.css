@@ -1,0 +1,85 @@
+/* PAGE */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+/* MAIN CONTAINER */
+#main {
+  background-color: #eeeeee;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* TITLE */
+#title {
+  margin-bottom: 20px;
+}
+
+/* IMAGE BOX */
+#img-div {
+  background-color: white;
+  padding: 15px;
+}
+
+/* IMAGE */
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* CAPTION */
+#img-caption {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+/* INFO */
+#tribute-info {
+  margin-top: 30px;
+}
+
+/* HEADING */
+#tribute-info h3 {
+  margin-bottom: 20px;
+}
+
+/* LIST */
+#tribute-info ul {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#tribute-info li {
+  margin-bottom: 10px;
+}
+
+/* QUOTE */
+blockquote {
+  margin: 30px auto;
+  max-width: 600px;
+  font-style: italic;
+  color: #333;
+}
+
+/* LINK */
+#tribute-link {
+  display: inline-block;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+#tribute-link:hover {
+  text-decoration: underline;
+}
+
